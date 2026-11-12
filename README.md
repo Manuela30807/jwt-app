@@ -29,3 +29,7 @@ Cookies `httpOnly` impedem que um XSS leia os tokens (ao contrário de `localSto
 ## Telas
 
 Login · Dashboard (admin: relatório completo; atendente: resumo) · Livros (filtros, vários autores) · Categorias · Autores · Leitores (+ histórico) · Empréstimos (novo, filtro por status, devolução com multa) · Atendentes (somente admin: cadastro, edição, ativar/desativar).
+
+## Vídeo de apresentação
+
+[Assistir ao vídeo do projeto](https://drive.google.com/file/d/1Po7-PIUL0AptQ-MbCeCsCmkUpg0GcKjo/view?usp=sharing)
